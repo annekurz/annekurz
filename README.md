@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @annekurz
-- 👀 I’m interested to get started with programming
-- 🌱 I’m currently learning Python
 
 
 <!---
